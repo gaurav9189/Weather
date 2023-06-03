@@ -27,3 +27,4 @@ Generates an interactive map using the folium library.
 Adds markers for each city on the map, indicating the city name and weather comment.
 Overall, the project provides functionality to fetch weather forecasts, analyze weather data, filter cities based on weather conditions, and visualize the results on a map.
 
+<img width="1131" alt="Screenshot 2023-06-03 at 01 41 29" src="https://github.com/gaurav9189/Weather/assets/28778688/f3e48923-b85a-451f-8c5d-3d0a863756f2">
